@@ -1,4 +1,7 @@
 # PDAL 2.10.2 Full Build
+## Download
+
+https://github.com/tarekwasfy01/PDAL-2.10.2-Full-Build/releases/download/PDAL-2.10.2/PDAL-2.10.2-maximal-win-x64-release.zip
 
 Full build of **PDAL 2.10.2** for Windows.
 
