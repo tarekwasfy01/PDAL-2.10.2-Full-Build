@@ -1,9 +1,0 @@
-{
-  "pipeline":[
-    {
-    "filename" : "badfile.reallybad",
-    "type" : "readers.las"
-    },
-    "@CMAKE_SOURCE_DIR@/test/temp/out.las"
-  ]
-}

@@ -1,8 +1,0 @@
-https://github.com/connormanning/arbiter
-
-To update the bundle:
-
-cd <arbiter-location>
-python amalgamate -c pdal
-cp ./dist/* <pdal-location>/vendor/arbiter
-
